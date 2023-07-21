@@ -1,0 +1,77 @@
+body {
+    background-color: #267326;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+    color: white;
+    text-shadow: 4px 0 #66b3ff;
+}
+
+footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+.w {
+    background-image: url(images/macaw.png);
+    background-size: 150px;
+}
+
+.a {
+    background-image: url(images/frog.png);
+    background-size: 150px;
+}
+
+.s {
+    background-image: url(images/leopard.jpeg);
+    background-size: 150px;
+}
+
+.d {
+    background-image: url(images/dolphin.jpeg);
+    background-size: 150px;
+}
+
+.j {
+    background-image: url(images/anaconda.png);
+    background-size: 150px;
+}
+
+.k {
+    background-image: url(images/monkey.jpeg);
+    background-size: 150px;
+}
+
+.l {
+    background-image: url(images/piranha.png);
+    background-size: 150px;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.sounds {
+    outline: none;
+    width: 150px;
+    height: 150px;
+    border: 5px solid #206820;
+    border-radius: 15px;
+    font-size: 4rem;
+    font-family: 'Arvo';
+    line-height: 2;
+    font-weight: 900;
+    color: #66b3ff;
+    text-shadow: 3px 0 #DBEDF3;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+
+.set {
+    margin: 10% auto;
+}
